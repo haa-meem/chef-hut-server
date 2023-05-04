@@ -1,0 +1,291 @@
+[
+    {
+        "id": 1,
+        "picture": "https://www.eastwestbank.com/content/dam/ewb-dotcom/reachfurtHis/newsarticlestore/484/Chef-Martin-Yan-top.jpg",
+        "name": "Martin Yan",
+        "bio": "Li Mei is a renowned Chinese chef with over 10 years of experience. His signature diHes include Kung Pao Chicken and Mapo Tofu. He has won numerous awards for His innovative and delicious recipes.",
+        "years_of_experience": 30,
+        "num_recipes": 50,
+        "likes": 9000,
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "peanuts",
+                    "vegetable oil",
+                    "garlic",
+                    "ginger"
+                ],
+                "cooking_method": "Stir-fry chicken, garlic, and ginger in hot oil until cooked. Add peanuts and cook until golden brown. Add a mixture of soy sauce, vinegar, and sugar. Serve over rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Egg Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "eggs",
+                    "peas",
+                    "carrots",
+                    "soy sauce"
+                ],
+                "cooking_method": "Cook rice according to instructions. Scramble eggs in a separate pan. Add peas and carrots to the eggs and cook until soft. Combine the cooked rice, eggs, and vegetables in a wok or large pan. Add soy sauce and stir-fry until heated through.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "chicken broth",
+                    "mushrooms",
+                    "tofu",
+                    "bamboo shoots",
+                    "vinegar"
+                ],
+                "cooking_method": "Bring chicken broth to a boil. Add sliced mushrooms, cubed tofu, and sliced bamboo shoots. Mix cornstarch with water and add to soup. Add vinegar and bring to a boil again. Drizzle in a beaten egg while stirring the soup. Serve hot.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Ken-Hom-top-10-chefs-in-china-768x530.jpg",
+        "name": "Ken Hom",
+        "bio": "Wang Chen is a master of Sichuan cuisine with over 15 years of experience. His diHes are known for their bold and spicy flavors, and he is particularly famous for his Hot and Sour Soup and Twice-Cooked Pork.",
+        "years_of_experience": 15,
+        "num_recipes": 80,
+        "likes": 5000,
+        "recipes": [
+            {
+                "recipe_name": "Braised Pork Belly",
+                "ingredients": [
+                    "pork belly",
+                    "soy sauce",
+                    "rock sugar",
+                    "ginger",
+                    "rice wine"
+                ],
+                "cooking_method": "Blanch pork belly and slice into bite-size pieces. In a separate pan, fry ginger until fragrant. Add pork belly, soy sauce, rock sugar, and rice wine. Cook on low heat until pork is tender and sauce has thickened.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "whole fish",
+                    "ginger",
+                    "scallions",
+                    "soy sauce",
+                    "sesame oil"
+                ],
+                "cooking_method": "Clean and scale the fish. Stuff sliced ginger and scallions into the cavity of the fish. Place in a steamer and steam for about 10 minutes or until cooked. Remove from steamer and top with a mixture of soy sauce and sesame oil.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Stir-Fried Broccoli with Garlic",
+                "ingredients": [
+                    "broccoli",
+                    "garlic",
+                    "vegetable oil",
+                    "salt",
+                    "chicken stock"
+                ],
+                "cooking_method": "Cut broccoli into florets and blanch in boiling water for about 1-2 minutes. Heat up a wok with vegetable oil and fry minced garlic until fragrant. Add broccoli and stir-fry for a minute. Add a splash of chicken stock and salt to taste. Serve hot.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://img.freepik.com/free-photo/japanese-woman-posing-restaurant_23-2149319386.jpg?w=900&t=st=1683107158~exp=1683107758~hmac=9f9aa51ce7c06beb1304995885a94438363556650d358d6c3b4c35b65108b819",
+        "name": "Zhang Wei",
+        "bio": "Zhang Wei is a rising star in the Chinese culinary world with 5 years of experience. She specializes in Cantonese cuisine and is known for Her delicate and flavorful diHes, such as Steamed Fish with Ginger and Scallions and Roast Duck.",
+        "years_of_experience": 5,
+        "num_recipes": 30,
+        "likes": 1500,
+        "recipes": [
+            {
+                "recipe_name": "Shrimp Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "shrimp",
+                    "eggs",
+                    "carrots",
+                    "peas",
+                    "soy sauce",
+                    "sesame oil"
+                ],
+                "cooking_method": "Cook rice according to instructions. Scramble eggs in a separate pan. Add shrimp, peas, and carrots to the eggs and cook until soft. Combine the cooked rice, eggs, shrimp, and vegetables in a wok or large pan. Add soy sauce and sesame oil, stir-fry until heated through.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Beef Stir Fry",
+                "ingredients": [
+                    "beef sirloin",
+                    "broccoli",
+                    "bell peppers",
+                    "onion",
+                    "garlic",
+                    "cornstarch",
+                    "soy sauce",
+                    "brown sugar"
+                ],
+                "cooking_method": "Mix cornstarch, soy sauce, and brown sugar in a bowl. Stir-fry beef, garlic, and onion in a hot wok until browned. Add broccoli and bell peppers, cook until soft. Pour in sauce mixture and cook until thickened. Serve hot over rice.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Hot and Spicy Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "soy sauce",
+                    "brown sugar",
+                    "garlic",
+                    "ginger",
+                    "chili flakes",
+                    "green onion"
+                ],
+                "cooking_method": "Mix soy sauce, brown sugar, garlic, ginger, and chili flakes in a bowl. Cut chicken into small pieces and marinate for at least 30 minutes. Heat a pan and add the marinated chicken, cook until browned. Add sliced green onions and cook until soft. Serve hot over rice.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "https://img.freepik.com/premium-photo/person-cooking-japanese-food_23-2149366813.jpg?w=900",
+        "name": "Liu Feng",
+        "bio": "Liu Feng is a veteran Chinese chef with over 20 years of experience. He is a master of both traditional and modern Chinese cuisine, and his diHes are known for their exquisite presentation and complex flavors.",
+        "years_of_experience": 3,
+        "num_recipes": 20,
+        "likes": 2000,
+        "recipes": [
+            {
+                "recipe_name": "Shanghai Fried Noodles",
+                "ingredients": [
+                    "shanghai noodles",
+                    "pork loin",
+                    "carrots",
+                    "cabbage",
+                    "scallions"
+                ],
+                "cooking_method": "Boil noodles according to instructions. Drain and rinse with cold water. Stir-fry pork loin until browned. Add sliced carrots, shredded cabbage, and scallions. Add the noodles and stir-fry until heated through. Add soy sauce and sesame oil to taste.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "chili bean sauce",
+                    "green onions",
+                    "chicken broth"
+                ],
+                "cooking_method": "Cook ground pork in a wok until browned. Add chili bean sauce, chicken broth, and sliced green onions. Mix in cubed tofu and simmer for a few minutes. Serve over rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "fish fillets",
+                    "ginger",
+                    "scallions",
+                    "soy sauce",
+                    "rice wine"
+                ],
+                "cooking_method": "Place fish fillets on a heatproof dish. Top with sliced ginger and scallions. Drizzle with soy sauce and rice wine. Steam over high heat until fish is cooked. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "https://canolaeatwell.com/wp-content/uploads/2021/09/Quan-Ju-De-1-1024x595.jpg",
+        "name": "Chen Hao",
+        "bio": "Chen Hao is a creative and innovative Chinese chef with 8 years of experience. He is known for his fusion diHes that combine traditional Chinese flavors with Western cooking techniques. Some of his most popular diHes include Sesame Noodles with Grilled Chicken and Spicy Shrimp Tacos.",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 1800,
+        "recipes": [
+            {
+                "recipe_name": "Miso-Glazed Salmon",
+                "ingredients": [
+                    "salmon fillet",
+                    "miso paste",
+                    "honey",
+                    "soy sauce",
+                    "garlic"
+                ],
+                "cooking_method": "Combine miso paste, honey, soy sauce, and garlic to make a marinade. Marinate salmon fillet for at least 30 minutes. Preheat the oven and bake salmon until cooked through. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Sichuan Dan Dan Noodles",
+                "ingredients": [
+                    "noodles",
+                    "ground pork",
+                    "Sichuan peppercorns",
+                    "scallions",
+                    "garlic"
+                ],
+                "cooking_method": "Cook noodles according to instructions. Brown ground pork in a pan. Add scallions, garlic, and Sichuan peppercorns and cook for a few more minutes. Serve the pork mixture over the cooked noodles.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Stir-Fried Vegetables with Tofu",
+                "ingredients": [
+                    "tofu",
+                    "broccoli",
+                    "carrots",
+                    "red bell pepper",
+                    "soy sauce"
+                ],
+                "cooking_method": "Cut tofu into cubes and cook in a pan until golden brown. Add chopped broccoli, sliced carrots, and sliced red bell pepper to the pan and stir-fry until tender. Season with soy sauce and serve hot.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://media.istockphoto.com/id/1175212404/photo/asian-chef-with-dish-at-the-restaurant.jpg?s=612x612&w=0&k=20&c=i1qhN28OljnAvkgvw3unYg0pJyrOfJsif-zF5IB3tBo=",
+        "name": "Zhao Ming",
+        "bio": "Zhao Ming is a skilled Chinese chef with 12 years of experience. He specializes in Hunan cuisine, which is known for its bold and spicy flavors. Some of his signature diHes include Hunan-style Crispy Pork Belly and Spicy Braised Fish.",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 2500,
+        "recipes": [
+            {
+                "recipe_name": "Spicy Sichuan Fish",
+                "ingredients": [
+                    "fish fillets",
+                    "soy sauce",
+                    "Sichuan peppercorns",
+                    "dried chili peppers",
+                    "green onions"
+                ],
+                "cooking_method": "Season the fish fillets with soy sauce and set aside. Heat oil in a pan and add Sichuan peppercorns and dried chili peppers. Stir-fry for a minute. Add the fish fillets and cook until golden brown. Add sliced green onions and cook for anotHis minute. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Ginger and Scallion Beef",
+                "ingredients": [
+                    "beef sirloin",
+                    "ginger",
+                    "scallions",
+                    "soy sauce",
+                    "oyster sauce"
+                ],
+                "cooking_method": "Marinate sliced beef in a mixture of soy sauce and oyster sauce. Heat oil in a pan and add sliced ginger and scallions. Stir-fry for a minute. Add the beef and cook until browned. Serve hot with steamed vegetables and rice.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Steamed Fish with Black Bean Sauce",
+                "ingredients": [
+                    "whole fish",
+                    "black bean sauce",
+                    "ginger",
+                    "garlic",
+                    "green onions"
+                ],
+                "cooking_method": "Clean and gut the fish. Place sliced ginger and garlic in the cavity of the fish. Spread black bean sauce over the fish. Steam the fish for 10-15 minutes, depending on the size. Garnish with sliced green onions and serve hot with rice.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
