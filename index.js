@@ -23,5 +23,5 @@ app.get('/chefs/:id',(req,res)=>{
 })
 
 app.listen(port, () => {
-    console.log(`Chef HUt is running on port:${port}`)
+    console.log(`Chef Hut is running on port:${port}`)
 })
