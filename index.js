@@ -8,7 +8,7 @@ const chefs = require('./data/chefs.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Chefs are coming')
+    res.send('Chefs are   coming')
 })
 
 app.get('/chefs', (req, res) => {
